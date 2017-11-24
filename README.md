@@ -26,7 +26,7 @@ sequence (i used "map" data structure for access time reducing).
 
 Here is a graphs which shows average percentage of ratio of attempts to the maximum Nonce size.
 In other words it show how many attempts computer needed to find target Nonce in a range from zero to maximum Nonce 
-size for each strategy. Lower value is better.
+size for each strategy. X axis shows Nonce maximum size for measurements. Y axis shows avg. percentage of successful Nonce finding. Lower value is better.
 
 ![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/blob/master/1itr.jpeg)
 
