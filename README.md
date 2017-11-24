@@ -29,10 +29,10 @@ In other words it show how many attempts computer needed to find target Nonce in
 size for each strategy. Lower value is better.
 
 ![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/blob/master/1itr.jpeg)
-One iteration.
+
 
 ![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/blob/master/100itr.jpeg)
-Hundred iterations.
+
 
 As we can see for 1 iteration GoOver strategy is obviously better than Picking. But for 100 iterations - they show 
 practically identical results. And Bitcoin nonce is 32-bit (4-byte) field. It means that it can has maximum size 
