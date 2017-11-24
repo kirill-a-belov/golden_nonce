@@ -28,10 +28,10 @@ Here is a graphs which shows average percentage of ratio of attempts to the maxi
 In other words it show how many attempts computer needed to find target Nonce in a range from zero to maximum Nonce 
 size for each strategy. Lower value is better.
 
-![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/1itr.jpeg)
+![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/blob/master/1itr.jpeg)
 One iteration.
 
-![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/100itr.jpeg)
+![\[graph\]](https://github.com/kirill-a-belov/golden_nonce/blob/master/100itr.jpeg)
 Hundred iterations.
 
 As we can see for 1 iteration GoOver strategy is obviously better than Picking. But for 100 iterations - they show 
